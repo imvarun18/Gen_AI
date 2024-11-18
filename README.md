@@ -1,4 +1,4 @@
-# Gen_AI
+# Gemini Decoder 
 GeminiDecode is an AI-powered solution for extracting and analyzing data from multilingual documents using Google Gemini Pro. This solution transcends language barriers by leveraging Google Gemini Pro's AI capabilities, ensuring enhanced accuracy and efficiency in document processing. It is ideal for global businesses aiming to improve productivity and decision-making through seamless multilingual data handling. 
 
 ## Features - Supports 50+ languages - Extracts, categorizes, and answers queries about document content. 
